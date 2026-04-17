@@ -1,0 +1,87 @@
+[
+  {
+    "discount": 0.21,
+    "name": "GTA VI",
+    "brand": "Viladrau Games",
+    "category": "GENERAL",
+    "mrp": 79.99,
+    "reviews": []
+  },
+  {
+    "discount": 0.1,
+    "name": "Xuixo de Crema",
+    "brand": "Viladrau Bakery",
+    "category": "REDUCED TAXES",
+    "mrp": 5.5,
+    "reviews": []
+  },
+  {
+    "discount": 0.04,
+    "name": "Billet de Tram",
+    "brand": "Viladrau Mobility",
+    "category": "SUPERREDUCED TAXES",
+    "mrp": 2.25,
+    "reviews": []
+  },
+  {
+    "discount": 0.21,
+    "name": "Cool Plant",
+    "brand": "Not An Alien",
+    "category": "GENERAL",
+    "mrp": 360.36,
+    "reviews": []
+  },
+  {
+    "discount": 0.1,
+    "name": "Bouquet of Roses",
+    "brand": "La Salle Gardening",
+    "category": "REDUCED TAXES",
+    "mrp": 79.99,
+    "reviews": []
+  },
+  {
+    "discount": 0.04,
+    "name": "How to Train Your Alien",
+    "brand": "Not An Alien",
+    "category": "SUPERREDUCED TAXES",
+    "mrp": 25.0,
+    "reviews": []
+  },
+  {
+    "discount": 0.21,
+    "name": "Simulacra Machine",
+    "brand": "Cerberus Assembly",
+    "category": "GENERAL",
+    "mrp": 1000.0,
+    "reviews": []
+  },
+  {
+    "discount": 0.1,
+    "name": "Bag of Holding",
+    "brand": "Trevan Trinkets",
+    "category": "REDUCED TAXES",
+    "mrp": 500.0,
+    "reviews": [
+      "3* the best"
+    ]
+  },
+  {
+    "discount": 0.04,
+    "name": "Pearl of Power",
+    "brand": "Trevan Trinkets",
+    "category": "SUPERREDUCED TAXES",
+    "mrp": 200.0,
+    "reviews": []
+  },
+  {
+    "discount": 0.04,
+    "name": "product",
+    "brand": "Product",
+    "category": "SUPERREDUCED TAXES",
+    "mrp": 20.0,
+    "reviews": [
+      "4* a good product",
+      "1* mmmm i dont like the product"
+    ]
+  }
+]

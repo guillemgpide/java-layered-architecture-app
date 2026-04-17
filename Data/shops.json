@@ -1,0 +1,111 @@
+[
+  {
+    "loyaltyThreshold": 420.24,
+    "name": "Big Shop of Horrors",
+    "description": "L",
+    "earnings": 72.71818,
+    "since": 1274,
+    "businessModel": "LOYALTY",
+    "catalogue": [
+      {
+        "productPrice": 360.36,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "Cool Plant",
+        "brand": "Not An Alien"
+      },
+      {
+        "productPrice": 79.99,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "Bouquet of Roses",
+        "brand": "La Salle Gardening"
+      },
+      {
+        "productPrice": 25.0,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "How to Train Your Alien",
+        "brand": "Not An Alien"
+      },
+      {
+        "productPrice": 19.99,
+        "productRating": [
+          "****",
+          "*"
+        ],
+        "reviewsForShop": [
+          "a good product",
+          "mmmm i dont like the product"
+        ],
+        "name": "product",
+        "brand": "Product"
+      }
+    ]
+  },
+  {
+    "name": "Queviures Groceries",
+    "description": "shop that sells groceries",
+    "earnings": 75.43436,
+    "since": 2009,
+    "businessModel": "MAXIMUM BENEFITS",
+    "catalogue": [
+      {
+        "productPrice": 79.99,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "GTA VI",
+        "brand": "Viladrau Games"
+      },
+      {
+        "productPrice": 5.5,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "Xuixo de Crema",
+        "brand": "Viladrau Bakery"
+      },
+      {
+        "productPrice": 2.25,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "Billet de Tram",
+        "brand": "Viladrau Mobility"
+      }
+    ]
+  },
+  {
+    "sponsoredBrand": "Cerberus assembly",
+    "name": "The Invulnerable Vagrant",
+    "description": "shop that sells things",
+    "earnings": 0.0,
+    "since": 2021,
+    "businessModel": "SPONSORED",
+    "catalogue": [
+      {
+        "productPrice": 1000.0,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "Simulacra Machine",
+        "brand": "Cerberus Assembly"
+      },
+      {
+        "productPrice": 500.0,
+        "productRating": [
+          "***"
+        ],
+        "reviewsForShop": [
+          "the best"
+        ],
+        "name": "Bag of Holding",
+        "brand": "Trevan Trinkets"
+      },
+      {
+        "productPrice": 200.0,
+        "productRating": [],
+        "reviewsForShop": [],
+        "name": "Pearl of Power",
+        "brand": "Trevan Trinkets"
+      }
+    ]
+  }
+]
