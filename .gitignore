@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+out/
+build/
+
+# Log file
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# macOS system files
+.DS_Store
+Thumbs.db
