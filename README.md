@@ -42,4 +42,4 @@ To run this project locally:
 
 ## 📖 Documentation & UML
 
-Comprehensive system design documentation, including the final project report and StarUML (`.mdj`) Class Diagrams, can be found in the `docs/` directory.
+Comprehensive system design documentation, including the StarUML (`.mdj`) Class Diagrams, can be found in the `docs/` directory.
